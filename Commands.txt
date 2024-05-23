@@ -1,0 +1,23 @@
+git username :nagavenkatreddy
+git password: N!kk!@123
+token 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
+
+
+git init: to intalise the git
+git status: to check the status
+git add. : to add files to repositary
+git commit-m"custom message": to save the files
+git remote add origin"<url of repository>": to move to repository
+git push origin master : to push the code to repository
+git clone<URl> :to clone the repository
+git pull origin master : to pull the code from repositiory
+git branch <name> : to create branch
+git branch -D <name> : to delete the branch
+git branch : to check the no of branches
+git checkout branch<branch name> : to switch in between branches
+git log : to get the logs
+git stash -u : to satsh the draft the file
+git stash pop
+
+
+
